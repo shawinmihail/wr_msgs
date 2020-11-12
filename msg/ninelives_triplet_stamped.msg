@@ -1,0 +1,8 @@
+time stamp
+int32 status_master
+geometry_msgs/Vector3 r_ecef_master
+geometry_msgs/Vector3 v_ecef_master
+int32 status_slave1
+geometry_msgs/Vector3 dr_ecef_slave1
+int32 status_slave2
+geometry_msgs/Vector3 dr_ecef_slave2

@@ -1,0 +1,22 @@
+<package>
+    <name>wr_msgs</name>
+    <version>0.1.1</version>
+    <description>
+    wr_msgs
+    </description>
+    <author>M.Shavin</author>
+    <maintainer email="shawinmihail@gmail.com">M.Shavin</maintainer>
+
+    <license>commertial</license>
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <build_depend>message_generation</build_depend>
+    <build_depend>std_msgs</build_depend>
+    <build_depend>sensor_msgs</build_depend>
+    <build_depend>nav_msgs</build_depend>
+
+    <run_depend>message_runtime</run_depend>
+    <run_depend>std_msgs</run_depend>
+    <run_depend>sensor_msgs</run_depend>
+    <run_depend>nav_msgs</run_depend>
+</package>
