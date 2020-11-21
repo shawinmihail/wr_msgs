@@ -11,7 +11,7 @@ find_package(catkin REQUIRED
 
 add_message_files(
   FILES
-    control_req_stamped.msg
+    ctrl_stamped.msg
     imu_stamped.msg
     ninelives_triplet_stamped.msg
     steer_stamped.msg
