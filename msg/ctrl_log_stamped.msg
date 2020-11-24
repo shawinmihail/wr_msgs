@@ -1,0 +1,16 @@
+time stamp
+float64 ang
+float64 vel
+int32 light
+float64 D
+float64 K
+float64 psi
+float64 h0
+float64 h1
+float64 h2
+float64 h3
+float64 h4
+int32 isStartingManeuver
+int32 goawayflag
+int32 isAtDomain
+int32 EKF_data_cnt
