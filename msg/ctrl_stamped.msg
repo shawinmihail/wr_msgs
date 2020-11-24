@@ -1,4 +1,12 @@
 time stamp
-float64 ang
-float64 vel
-int32 light
+std_msgs/Float32 D
+std_msgs/Float32 K
+std_msgs/Float32 psi
+std_msgs/Float32 h0
+std_msgs/Float32 h1
+std_msgs/Float32 h2
+std_msgs/Float32 h3
+std_msgs/Float32 h4
+std_msgs/Int32 isStartingManeuver
+std_msgs/Int32 goawayflag
+std_msgs/Int32 isAtDomain
