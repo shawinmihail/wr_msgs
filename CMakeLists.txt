@@ -14,6 +14,7 @@ add_message_files(
     control_req_stamped.msg
     imu_stamped.msg
     ninelives_triplet_stamped.msg
+    route_line.msg
 )
 
 generate_messages(
