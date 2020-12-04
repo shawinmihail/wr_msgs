@@ -10,8 +10,12 @@ float64 h1
 float64 h2
 float64 h3
 float64 h4
-float64 h5
-float64 h6
+float64 vflag
+float64 sigpsis
+float64 rightflag
+float64 leftflag
+float64 upflag
+float64 downflag
 int32 isStartingManeuver
 int32 goawayflag
 int32 isAtDomain
