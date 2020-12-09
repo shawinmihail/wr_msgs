@@ -17,6 +17,7 @@ add_message_files(
     ninelives_triplet_stamped.msg
     route_line.msg
     steer_stamped.msg
+    imx_pwm_log.msg
 )
 
 generate_messages(
