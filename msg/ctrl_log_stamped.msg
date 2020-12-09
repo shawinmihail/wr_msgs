@@ -19,4 +19,5 @@ float64 downflag
 int32 isStartingManeuver
 int32 goawayflag
 int32 isAtDomain
+int32 isPotentialNow
 int32 EKF_data_cnt
