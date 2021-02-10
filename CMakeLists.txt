@@ -18,6 +18,7 @@ add_message_files(
     route_line.msg
     steer_stamped.msg
     imx_pwm_log.msg
+    lidar_scan.msg
 )
 
 generate_messages(
